@@ -1,0 +1,9 @@
+.DS_Store
+.cache
+/dist
+/mtk/url.js
+.history
+ 
+# local env files
+.env.local
+.env.*.local
